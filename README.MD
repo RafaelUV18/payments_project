@@ -10,7 +10,7 @@ Para correr este proyecto y que funcione adecuadamente, se necesita realizar lo 
 1. Clona este repositorio.
 2. Instalar las dependencias que se encuentran en el archivo requirements.txt (Se recomienda usar un entorno virtual)
 ```
-pip install - r requirements.txt
+pip install -r requirements.txt
 ```
 3. Levantar el servidor desde la carpeta raíz del proyecto con:
 ```
